@@ -1,16 +1,44 @@
-## Hi there 👋
+ Hi, I’m Christina 👋
 
-<!--
-**christinakhoury/christinakhoury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Java & Web Development  
+📍 Passionate about learning software engineering through hands-on projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a Computer Science student focused on building practical projects to strengthen my understanding of programming, data structures, and web development.  
+I enjoy turning ideas into working applications and continuously improving my coding skills.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
+- **Tools:** Git, GitHub, Eclipse, VS Code
+
+---
+
+## 📌 Featured Projects
+🔹 **Hangman Game (Java)**  
+A Java-based Hangman game implementing game logic, user interaction, and input validation.
+
+🔹 **Fly2Fit Website**  
+A front-end web project showcasing HTML/CSS structure and layout design.
+
+🔹 **Stack Compiler Project**  
+A project exploring stack-based logic and compiler-related concepts.
+
+*(More projects available in my repositories)*
+
+---
+
+## 📈 What I’m Currently Working On
+- Improving my existing projects with better structure and documentation
+- Learning best practices for clean code and GitHub workflows
+- Expanding my knowledge in software development fundamentals
+
+---
+
+## 📫 Contact
+- GitHub: [github.com/christinakhoury](https://github.com/christinakhoury)
