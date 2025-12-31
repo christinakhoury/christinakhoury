@@ -29,6 +29,9 @@ A front-end web project showcasing HTML/CSS structure and layout design.
 🔹 **Stack Compiler Project**  
 A project exploring stack-based logic and compiler-related concepts.
 
+🔹 Business CRUD Application (JavaFX)
+A JavaFX desktop application using the MVC architecture to manage multiple business entities (Clients, Orders, Products, etc.). Features secure login, home dashboard, and entity-specific CRUD operations with FXML-designed interfaces and in-memory data storage. Developed collaboratively using Git and GitHub.
+
 *(More projects available in my repositories)*
 
 ---
