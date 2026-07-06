@@ -20,6 +20,9 @@ I enjoy turning ideas into working applications and continuously improving my co
 ---
 
 ## 📌 Featured Projects
+**🔹 Golden Glow Studio (Web Project)**
+A modern web application for a beauty studio business, featuring service presentation, product browsing, and a user-friendly UI designed to simulate a real-world e-commerce/booking experience.
+
 🔹 **Hangman Game (Java)**  
 A Java-based Hangman game implementing game logic, user interaction, and input validation.
 
